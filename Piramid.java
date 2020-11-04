@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ulazna linija: broj
+* ispisuje piramidu sastavljenu od zvjezdica ili brojeva, pri cemo se razlikuju piramide raspisane po brojevima (uzlazno kreirana, silazno,
+* u svakom retku je redni broj retka, u svakom retku se brojevi povecavaju od 1 do 9 ili u svakom retku su brojevi od 1 do 9 pa opet od 9 do 1)
  */
 
 /**
