@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 
+ * Ulazna linija: broj
+* odreduje fibonaccijeve brojeve do određenog rednog broja(npr. ako se upise 10, bit ce ispisano 10 Fibonaccijevih brojeva
  */
 /**
  *
